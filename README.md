@@ -1,4 +1,3 @@
-# SCM-Practice-Rich
 # Software Configuration Management (SCM) and GitHub
 
 Software Configuration Management (SCM) is the process of tracking and controlling changes in software. It encompasses practices such as version control, change management, and release management to help teams manage code evolution and maintain product stability.
