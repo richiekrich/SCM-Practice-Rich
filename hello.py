@@ -1,4 +1,4 @@
-# This feature greets the stored name and greets them
+# This feature greets the stored person's name
 def greet(name):
     print(f"Hello, {name}!")
 
